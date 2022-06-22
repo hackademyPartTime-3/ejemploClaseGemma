@@ -1,0 +1,84 @@
+.titulos{
+    font-family: 'Bungee', cursive;
+}
+
+.ul__width{
+    width: 100%;
+}
+
+.color__text{
+    color: white;
+}
+
+header{
+    z-index: 99;
+}
+
+.carousel__tamaño{
+    width: 100%;
+    height: 500px;
+}
+
+.img1{
+    background-image: url(./img/Adventure-cuate.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.img2{
+    background-image: url(./img/Adventure-cuate.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.img3{
+    background-image: url(./img/Adventure-cuate.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.banner{
+    width: 100%;
+    height: 200px;
+    background-image: url(./img/Taking\ care\ of\ the\ Earth-pana.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#style__cards{
+    border-top: 0px;
+    border-left: 0px;
+    border-radius: 40px;
+    border-color: #198754;
+    background-image: linear-gradient(135deg, transparent 40%, #198754 100%);
+    
+}
+
+.login {
+    min-height: 100vh;
+  }
+  
+  .bg-image {
+    background-image: url(./img/Gardening-cuate.png);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login-heading {
+    font-weight: 300;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+
+  .fondo__general{
+    background: linear-gradient(to bottom, transparent 70%, #212529 100%);
+  }
+
+  
